@@ -1,0 +1,5 @@
+html.intro body {
+	background:url("images/raiders_warehouse.jpg");
+	background-position:center;
+	background-size: 100%;
+}
