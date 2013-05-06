@@ -1,0 +1,216 @@
+notes
+
+Background credit: http://celiaaa.deviantart.com/
+
+
+what is it?
+why is it different to trad manufacturing?
+why did I decide to use 3d printing to make things?
+what is my process?
+what software do I use?
+what other software is out there?
+What services do I use?
+What other services are out there?
+
+
+
+
+<section>
+	<h2>You can print things in:</h2>
+	<p>
+		<ul>
+			<li>Plastic</li>
+			<li>Stainless Steel</li>
+			<li>Silver</li>
+			<li>Titanium</li>
+			<li>Aluminium/plastic hybrid</li>
+			<li>Ceramic (tea, earl grey, hot)</li>
+			<li>Sandstone</li>
+			<li>Glass</li>
+			<li>Food</li>
+			<li>Organic matter/cells</li>
+		</ul>
+	</p>
+</section>
+
+<section>
+
+	<section>
+		<h2>3D Printer Anatomy</h2>
+		<p><img src="img/anatomy.png" /></p>
+	</section>
+
+	<section>
+		<h2>Belts + Pulleys</h2>
+		<p><img src="http://guide-images.makeprojects.org/igi/HKemFOVx2WsINspl.medium" /></p>
+	</section>
+
+	<section>
+		<h2>Stepper Motor</h2>
+		<p><img src="http://www.seeedstudio.com/wish/wp-content/uploads/2011/09/nm17b12s_w400.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Controller (Sanguinololu)</h2>
+		<p><img src="http://reprap.org/mediawiki/images/thumb/9/9a/Sanguinololu.jpg/800px-Sanguinololu.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Extruder</h2>
+		<p><img src="http://farm9.staticflickr.com/8314/7960359018_8a29dd0b08_z.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Filament</h2>
+		<p><img src="http://img.wonderhowto.com/img/79/93/63474237581510/0/art-3d-printing-turning-cool-ideas-into-physical-three-dimensional-models.w654.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Hobbed Bolt</h2>
+		<p><img src="http://farm7.staticflickr.com/6130/6020899394_8a7f36481b.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Hot End</h2>
+		<p><img src="http://printrbot.com/wp-content/uploads/2012/03/IMG_1030.jpg" /></p>
+	</section>
+
+	<section>
+		<h2>Print Bed</h2>
+		<p><img src="img/bed.png" /></p>
+	</section>
+
+</section>
+
+<!-- slide 11 -->
+<section>
+	<h2>Great! Send me a printer via Amazon Prime right meow!</h2>
+	<p><img src="http://media.tumblr.com/tumblr_m8pqdbngnU1qd0as9.gif"/></p>
+	<h3>Woah. Woah.</h3>
+</section>
+
+<!-- slide 12 -->
+<section>
+	<h2>Ask yourself:</h2>
+	<ol>
+		<li>How much do I want to spend?</li>
+		<li>How much space do I have for one?</li>
+		<li>What do I want to use it for?</li>
+		<li>How much do I care about style?</li>
+		<li>Am I a tinkerer, or do I want it to 'just work'?</li>
+		<li>Do I want to build my own?</li>
+		<li>Do I want to support open source?</li>
+		<li>Is ABS or PLA right for me?</li>
+	</ol>
+</section>
+
+<!-- slide 13 -->
+<section>
+	<h2>Price range</h2>
+	<p>Desktop home printers cost between $400 and $3500.</p>
+	<p>Price is not always an indicator, but as far as reliability and autonomy goes, the general rule is that you get what you pay for.</p>
+	<p>&nbsp;</p>
+	<p><b>Lowest price: Printrbot Jr</b></p>
+	<p><b>Highest price: Formlabs Form 1</b></p>
+	<p><small>(as of Feb, 2013)</small></p>
+</section>
+
+<!-- slide 14 -->
+<section>
+	<h2>What is the deal with ABS and PLA?</h2>
+	<p>They are both differing types of plastic you can buy to use with your 3D printer. ABS is the stuff Lego pieces are made of, and PLA is a corn derived non toxic plastic.</p>
+</section>
+
+<!-- slide 15 -->
+<section>
+	<h2>ABS</h2>
+	<ul>
+		<li>Lego!</li>
+		<li>Higher melting point - 437°F (225°C)</li>
+		<li>Slightly stronger than PLA</li>
+		<li>Available in many colours</li>
+		<li>More expensive</li>
+		<li>You need a heated print bed</li>
+		<li>Resolution/detail is restricted</li>
+	</ul>
+</section>
+
+<!-- slide 16 -->
+<section>
+	<h2>PLA</h2>
+	<ul>
+		<li>Environmentally friendly</li>
+		<li>Lower melting point - 356°F (180°C)</li>
+		<li>Smells nice when printing</li>
+		<li>Available in many colours</li>
+		<li>No heated print bed needed</li>
+		<li>Layer heights of as small as .1mm are possible</li>
+		<li>Melty - not dishwasher safe mostly</li>
+		<li>Not as strong as ABS</li>
+	</ul>
+</section>
+
+<!-- slide 19 -->
+<section>
+	<h2>Still need help?</h2>
+	<p><b>It's dangerous to go alone, take these:</b></p>
+	<p>&nbsp;</p>
+	<p>3ders Printer Price Comparison - <a href="http://bit.ly/YuHYU8">bit.ly/YuHYU8</a></p>
+	<p>Make: The Ultimate Guide to 3D Printing - <a href="http://bit.ly/YuIbqC">bit.ly/YuIbqC</a></p>
+	<p><img src="http://24.media.tumblr.com/tumblr_lrn7itzdq71qk2ihjo1_500.png" height="250"/>
+</section>
+
+<!-- slide 20 -->
+<section>
+	<h2>What if I don't want to buy a printer?</h2>
+	<img src="http://onlyhdwallpapers.com/thumbnail/cats_thinking_cat_pondering_desktop_800x600_hd-wallpaper-676866.jpg"/>
+	<p>No wukkas!</p>
+</section>
+
+<!-- slide 21 -->
+<section>
+	<h2>There are online services where you can use someone else's printer!</h2>
+	<img src="http://media.tumblr.com/tumblr_lt2lvmDy9e1qb7egt.gif"/>
+</section>
+
+<!-- slide 22 -->
+<section>
+	<h2>Where can I find these services?</h2>
+	<ul>
+		<li><a href="http://shapeways.com">Shapeways</a></li>
+		<li><a href="http://i.materialise.com">i.materialise</a></li>
+		<li><a href="http://www.sculpteo.com/">Sculpteo</a></li>
+		<li><a href="http://ponoko.com/">Ponoko</a></li>
+	</ul>
+</section>
+
+<!-- slide 23 -->
+<section>
+	<h2>How does it work?</h2>
+	<ol>
+		<li>Make model of your object</li>
+		<li>Upload to an online printing service</li>
+		<li>Order and pay</li>
+		<li>F5 F5 F5 F5 F5 F5 F5</li>
+		<li>Delivery!</li>
+	</ol>
+	<p>&nbsp;</p>
+	<p>Turnaround times vary from 2 weeks to 4 weeks, depending on material ordered.</p>
+</section>
+
+
+<section>
+	<h2>Can't Get Enough?</h2>
+	<a class="image" href="http://3dprintweekly.com" target="_blank">
+		<img width="" height="" src="http://3dprintweekly.com/header_light.jpg" alt="Meny">
+	</a>
+</section>
+
+<section>
+	<h2>Wanna try before you buy?</h2>
+	<a class="image" href="http://synshop.org" target="_blank">
+		<img width="" height="" src="https://synshop.org/sites/default/files/logo290.png" alt="Meny">
+	</a>
+	<p><a href="http://synshop.org">synshop.org</a></p>
+	<p>114 N 4th St, Las Vegas</p>
+</section>
