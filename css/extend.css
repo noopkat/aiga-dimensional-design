@@ -18,7 +18,7 @@ body {
 
 html .reveal h1, h2, h3, h4, h5, h6, p, small, ul {
 	background-color: #f1f1f1;
-	padding:10px;
+	padding:20px 10px 20px 10px;
 	/* gah */
 	color:#333 !important;
  	text-shadow:none;
@@ -27,7 +27,8 @@ html .reveal h1, h2, h3, h4, h5, h6, p, small, ul {
 .reveal ul {
 	list-style-position: inside;
 	padding:20px;
-	width:500px;
+	width:800px;
+	text-align: left;
 }
 
 html .reveal p small {
@@ -82,6 +83,62 @@ html.moon body {
 
 html.makers body {
 	background:url("../img/draftbin/makers.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.felt body {
+	background:url("../img/draftbin/felt.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.product1 body {
+	background:url("../img/draftbin/product1.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.product2 body {
+	background:url("../img/draftbin/product2.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.product3 body {
+	background:url("../img/draftbin/product3.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.product4 body {
+	background:url("../img/draftbin/product4.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.product5 body {
+	background:url("../img/draftbin/product5.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.etsy body {
+	background:url("../img/draftbin/etsy.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.printrbot body {
+	background:url("../img/draftbin/printrbot.jpg");
 	background-repeat: no-repeat;
 	background-position:center;
 	background-size: 100%;
