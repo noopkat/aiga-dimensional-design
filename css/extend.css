@@ -35,6 +35,10 @@ html .reveal p small {
 	font-size: 100%;
 }
 
+html img {
+	border:none;
+}
+
 .reveal a:not(.image) {
   color: #ff0000;
   text-decoration: none;
@@ -144,3 +148,44 @@ html.printrbot body {
 	background-size: 100%;
 }
 
+html.book body {
+	background:url("../img/draftbin/book.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.modeling body {
+	background:url("../img/draftbin/modeling.png");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.modeling2 body {
+	background:url("../img/draftbin/modeling2.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.dprintweekly body {
+	background:url("../img/draftbin/3dprintweekly.gif");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.synshop body {
+	background:url("../img/draftbin/synshop.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
+
+html.watch body {
+	background:url("../img/draftbin/watch.jpg");
+	background-repeat: no-repeat;
+	background-position:center;
+	background-size: 100%;
+}
