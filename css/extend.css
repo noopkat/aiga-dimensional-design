@@ -7,6 +7,10 @@
   text-shadow:none;
 }
 
+.reveal.page .slides section:not(.stack):before {
+	background: rgba(0,0,0,0);
+}
+
 body {
 	transition: background 2s;
 	-webkit-transition: background 2s; /* Safari */
@@ -189,3 +193,4 @@ html.watch body {
 	background-position:center;
 	background-size: 100%;
 }
+
